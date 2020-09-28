@@ -24,7 +24,7 @@ package org.restcomm.media.client.mgcp.utils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.restcomm.media.concurrent.ConcurrentCyclicFIFO;
+import org.restcomm.media.core.concurrent.ConcurrentCyclicFIFO;
 
 public class PacketRepresentationFactory {
 

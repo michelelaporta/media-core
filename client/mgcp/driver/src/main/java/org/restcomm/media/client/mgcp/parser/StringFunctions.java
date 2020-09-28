@@ -24,7 +24,7 @@ package org.restcomm.media.client.mgcp.parser;
 
 import java.util.ArrayList;
 
-import org.restcomm.media.concurrent.ConcurrentCyclicFIFO;
+import org.restcomm.media.core.concurrent.ConcurrentCyclicFIFO;
 
 public class StringFunctions 
 {

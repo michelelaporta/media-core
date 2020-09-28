@@ -80,6 +80,7 @@
             <artifactId>media-core-concurrent</artifactId>
             <version>${project.version}</version>
         </dependency>
+        
         <dependency>
             <groupId>jain</groupId>
             <artifactId>jain-mgcp-ri</artifactId>

@@ -44,7 +44,7 @@ import org.restcomm.media.client.mgcp.parser.commands.NotificationRequestHandler
 import org.restcomm.media.client.mgcp.parser.commands.NotifyHandler;
 import org.restcomm.media.client.mgcp.parser.commands.RespUnknownHandler;
 import org.restcomm.media.client.mgcp.parser.commands.RestartInProgressHandler;
-import org.restcomm.media.concurrent.ConcurrentCyclicFIFO;
+import org.restcomm.media.core.concurrent.ConcurrentCyclicFIFO;
 
 import jain.protocol.ip.mgcp.JainMgcpCommandEvent;
 import jain.protocol.ip.mgcp.JainMgcpEvent;

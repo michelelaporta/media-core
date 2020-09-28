@@ -24,7 +24,7 @@ classes
 /**/.classpath
 /**/.project
 /**/.settings
-
+/**/.factorypath
 # ignore diagram images
 architecture-diagrams/**/*.png
 

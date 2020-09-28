@@ -53,8 +53,8 @@ import org.restcomm.media.client.mgcp.handlers.MessageHandler;
 import org.restcomm.media.client.mgcp.handlers.TransactionHandler;
 import org.restcomm.media.client.mgcp.utils.PacketRepresentation;
 import org.restcomm.media.client.mgcp.utils.PacketRepresentationFactory;
-import org.restcomm.media.concurrent.ConcurrentCyclicFIFO;
-import org.restcomm.media.concurrent.ConcurrentMap;
+import org.restcomm.media.core.concurrent.ConcurrentCyclicFIFO;
+import org.restcomm.media.core.concurrent.ConcurrentMap;
 
 import jain.protocol.ip.mgcp.CreateProviderException;
 import jain.protocol.ip.mgcp.DeleteProviderException;
